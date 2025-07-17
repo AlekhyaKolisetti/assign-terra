@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "Assignterra" {
-    name     = "example-resources"
+    name     = "Assignterra"
     location = "East US"
 }
 
